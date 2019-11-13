@@ -1,4 +1,4 @@
-# Question answering
+﻿# Question answering
 
 Question answering adalah tugas menjawab pertanyaan.
 
@@ -169,7 +169,7 @@ Papan peringkat dan data tersedia di [QuAC website](http://quac.ai/).
 
 ### RACE
 
-The [RACE dataset](https://arxiv.org/abs/1704.04683) dalah dataset pemahaman bacaan yang dikumpulkan dari ujian bahasa Inggris di Tiongkok, yang dirancang untuk siswa sekolah menengah dan menengah. Dataset berisi lebih dari 28.000 bagian dan hampir 100.000 pertanyaan dan dapat diunduh [disini](http://www.cs.cmu.edu/~glai1/data/race/). Model dievaluasi berdasarkan akurasi pada ujian sekolah menengah (RACE-m), ujian sekolah menengah (RACE-h), dan pada total dataset (RACE).
+[RACE dataset](https://arxiv.org/abs/1704.04683) dalah dataset pemahaman bacaan yang dikumpulkan dari ujian bahasa Inggris di Tiongkok, yang dirancang untuk siswa sekolah menengah dan menengah. Dataset berisi lebih dari 28.000 bagian dan hampir 100.000 pertanyaan dan dapat diunduh [disini](http://www.cs.cmu.edu/~glai1/data/race/). Model dievaluasi berdasarkan akurasi pada ujian sekolah menengah (RACE-m), ujian sekolah menengah (RACE-h), dan pada total dataset (RACE).
 
 Papan peringkat publik tersedia di [RACE leaderboard](http://www.qizhexie.com//data/RACE_leaderboard).
 
@@ -183,7 +183,7 @@ Papan peringkat publik tersedia di [RACE leaderboard](http://www.qizhexie.com//d
 
 ### SQuAD
 
-The [Stanford Question Answering Dataset (SQuAD)](https://arxiv.org/abs/1606.05250)
+[Stanford Question Answering Dataset (SQuAD)](https://arxiv.org/abs/1606.05250)
 adalah dataset pemahaman bacaan, yang terdiri dari pertanyaan yang diajukan oleh orang banyak pada seperangkat artikel Wikipedia. Jawaban untuk setiap pertanyaan adalah segmen teks (rentang) dari bagian bacaan yang sesuai. Baru-baru ini, [SQuAD 2.0](https://arxiv.org/abs/1806.03822)
 telah dirilis, yang mencakup pertanyaan yang tidak dapat dijawab.
 
@@ -191,7 +191,7 @@ Papan publik tersedia di [SQuAD website](https://rajpurkar.github.io/SQuAD-explo
 
 ### Story Cloze Test
 
-The [Story Cloze Test](http://aclweb.org/anthology/W17-0906.pdf) adalah dataset untuk pemahaman cerita yang menyediakan sistem dengan cerita empat kalimat dan dua kemungkinan akhir. Sistem kemudian harus memilih akhir cerita yang benar.
+[Story Cloze Test](http://aclweb.org/anthology/W17-0906.pdf) adalah dataset untuk pemahaman cerita yang menyediakan sistem dengan cerita empat kalimat dan dua kemungkinan akhir. Sistem kemudian harus memilih akhir cerita yang benar.
 
 Rincian lebih lanjut tersedia di [Story Cloze Test Challenge](https://competitions.codalab.org/competitions/15333).
 

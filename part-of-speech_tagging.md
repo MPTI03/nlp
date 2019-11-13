@@ -39,7 +39,7 @@ Dataset standar untuk penandaan POS adalah bagian Wall Street Journal (WSJ) dari
 
 ### UD
 
-[Universal Dependencies (UD)](http://universaldependencies.org/) isadalah kerangka kerja untuk anotasi tata bahasa lintas-bahasa, yang berisi lebih dari 100 treebanks dalam lebih dari 60 bahasa. Model biasanya dievaluasi berdasarkan akurasi pengujian rata-rata di 21 bahasa sumber daya tinggi (♦ dievaluasi pada 17 bahasa).
+[Universal Dependencies (UD)](http://universaldependencies.org/) adalah kerangka kerja untuk anotasi tata bahasa lintas-bahasa, yang berisi lebih dari 100 treebanks dalam lebih dari 60 bahasa. Model biasanya dievaluasi berdasarkan akurasi pengujian rata-rata di 21 bahasa sumber daya tinggi (♦ dievaluasi pada 17 bahasa).
 
 | Model           | Avg akurasi  |  Makalah / Sumber |
 | ------------- | :-----:| --- |

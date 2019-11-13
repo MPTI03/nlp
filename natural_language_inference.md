@@ -12,14 +12,14 @@ Example:
 
 ### SNLI
 
-The [Stanford Natural Language Inference (SNLI) Corpus](https://arxiv.org/abs/1508.05326)
+[Stanford Natural Language Inference (SNLI) Corpus](https://arxiv.org/abs/1508.05326)
 Corpus berisi sekitar 550 ribu pasang hipotesis / premis. Model dievaluasi berdasarkan akurasi.
 
 Hasil mutakhir dapat dilihat di [SNLI website](https://nlp.stanford.edu/projects/snli/).
 
 ### MultiNLI
 
-The [Multi-Genre Natural Language Inference (MultiNLI) corpus](https://arxiv.org/abs/1704.05426)
+[Multi-Genre Natural Language Inference (MultiNLI) corpus](https://arxiv.org/abs/1704.05426)
 corpus berisi sekitar 433k pasangan hipotesis / premis. Ini mirip dengan corpus SNLI, tetapi mencakup berbagai genre teks lisan dan tulisan dan mendukung evaluasi lintas-genre. Data dapat diunduh dari [MultiNLI](https://www.nyu.edu/projects/bowman/multinli/) website.
 
 Papan peringkat publik [in-genre (matched)](https://www.kaggle.com/c/multinli-matched-open-evaluation/leaderboard) 
